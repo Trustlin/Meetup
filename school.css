@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+
+.pics{
+    width: 200%;
+    height: 200vh;
+    display: flex;
+}
+.pics img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border: 10px solid;
+}
